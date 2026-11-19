@@ -1,2 +1,3 @@
 # INFO-ABOUT-THE-MUFFIN
 About me yays!
+<h2>INFORMATION</h2>
